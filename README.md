@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Nick 
 
-<!--
-**nbur4556/nbur4556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack web developer, and I have a passion for creating appealing, user friendly, mobile first web applications.
 
-Here are some ideas to get you started:
+##### Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With experience in both front and back end web development, and a background in digital media, I've worked to fit in a variety of roles.
+
+* HTML5
+* CSS3
+* Javascript - ES6
+* React
+* Node JS
+* Express
+* MongoDB
+* SQL
+* jQuery
+* Bootstrap
