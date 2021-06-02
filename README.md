@@ -6,11 +6,12 @@ I am a full-stack web developer, and I have a passion for creating appealing, us
 
 With experience in both front and back end web development, and a background in digital media, I've worked to fit in a variety of roles.
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * Javascript - ES6
+* TypeScript
 * React
-* Node JS
+* NodeJS
 * Express
 * MongoDB
 * SQL
