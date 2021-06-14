@@ -17,3 +17,4 @@ With experience in both front and back end web development, and a background in 
 * SQL
 * jQuery
 * Bootstrap
+* Cypress
