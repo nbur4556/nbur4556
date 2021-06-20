@@ -10,32 +10,54 @@ With experience in both front and back end web development, and a background in 
 
 <table>
   <tr>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=30px></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=30px></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=30px></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=30px></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=30px></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=30px></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width=30px></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width=30px></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=30px></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width=30px></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width=30px></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=30px></td>
-  </tr>
-  <tr>
-    <td><sup>HTML</sup></td>
-    <td><sup>CSS</sup></td>
-    <td><sup>JavaScript</sup></td>
-    <td><sup>TypeScript</sup></td>
-    <td><sup>React</sup></td>
-    <td><sup>Sass</sup></td>
-    <td><sup>jQuery</sup></td>
-    <td><sup>Tailwind CSS</sup></td>
-    <td><sup>Node JS</sup></td>
-    <td><sup>Exspress</sup></td>
-    <td><sup>MongoDB</sup></td>
-    <td><sup>MySQL</sup></td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=30px></div>
+      <div align="center"><sup>HTML</sup></div>
+    </td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=30px></div>
+      <div align="center"><sup>CSS</sup></div>
+    </td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=30px></div>
+      <div align="center"><sup>JavaScript</sup></div>
+    </td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=30px></div>
+      <div align="center"><sup>TypeScript</sup></div>
+    </td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=30px></div>
+      <div align="center"><sup>React</sup></div>
+    </td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=30px></div>
+      <div align="center"><sup>Sass</sup></div>
+    </td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width=30px></div>
+      <div align="center"><sup>jQuery</sup></div>
+    </td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width=30px></div>
+      <div align="center"><sup>Tailwind CSS</sup></div>
+    </td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=30px></div>
+      <div align="center"><sup>Node JS</sup></div>
+    </td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width=30px></div>
+      <div align="center"><sup>Express</sup></div>
+    </td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width=30px></div>
+      <div align="center"><sup>Mongo DB</sup></div>
+    </td>
+    <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=30px></div>
+      <div align="center"><sup>MySQL</sup></div>
+    </td>
   </tr>
 </table>
 
