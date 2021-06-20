@@ -21,10 +21,6 @@ With experience in both front and back end web development, and a background in 
     <td>Javascript</td>
     <td>TypeScript</td>
   </tr>
-</table>
-
-##### Frontend Stack
-<table>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=35px></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=35px></td>
@@ -37,10 +33,6 @@ With experience in both front and back end web development, and a background in 
     <td>jQuery</td>
     <td>Tailwind CSS</td>
   </tr>
-</table>
-
-##### Backend Stack
-<table>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=35px></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width=35px></td>
@@ -54,3 +46,4 @@ With experience in both front and back end web development, and a background in 
     <td>MySQL</td>
   </tr>
 </table>
+
