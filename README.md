@@ -2,6 +2,8 @@
 
 I am a full-stack web developer, and I have a passion for creating appealing, user friendly, mobile first web applications.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbur4556&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Technologies
 
 With experience in both front and back end web development, and a background in digital media, I've worked to fit in a variety of roles.
