@@ -31,6 +31,10 @@ With experience in both front and back end web development, and a background in 
       <div align="center"><sup>React</sup></div>
     </td>
     <td>
+      <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width=30px></div>
+      <div align="center"><sup>NextJS</sup></div>
+    </td>    
+    <td>
       <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=30px></div>
       <div align="center"><sup>Sass</sup></div>
     </td>
