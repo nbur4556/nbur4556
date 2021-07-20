@@ -32,7 +32,7 @@ With experience in both front and back end web development, and a background in 
     </td>
     <td>
       <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width=30px></div>
-      <div align="center"><sup>NextJS</sup></div>
+      <div align="center"><sup>Next JS</sup></div>
     </td>    
     <td>
       <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=30px></div>
