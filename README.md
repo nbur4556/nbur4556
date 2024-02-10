@@ -13,4 +13,3 @@ I am a full-stack web developer, and I have a passion for creating appealing, us
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="40px" align="left" title="Dot-Net">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40px" align="left" title="Postgres">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40px" align="left" title="Mongo DB">
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40px" align="left" title="Tailwind CSS">
